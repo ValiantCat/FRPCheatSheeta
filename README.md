@@ -26,7 +26,7 @@
 # ReactiveCocoa-Objective-C部分
 
 
-![ReactiveCocoa-Objective-C](ReactiveCocoa-Objective-C.png)
+![ReactiveCocoa-Objective-C](https://github.com/aiqiuqiu/FRPCheatSheeta/blob/master/cheatSheet/ReactiveCocoa-Objective-C.png)
 
 
 ----
@@ -35,7 +35,7 @@
 # ReactiveCocoa-Swift部分
 
 
-![ReactiveCocoa-Swift](ReactiveCocoaV4.x-Swift.png)
+![ReactiveCocoa-Swift](https://github.com/aiqiuqiu/FRPCheatSheeta/blob/master/cheatSheet/ReactiveCocoaV4.x-Swift.png)
 
 
 
@@ -46,7 +46,7 @@
 # RXSwift部分
 
 
-![RXSwift](RXSwift.png)
+![RXSwift](https://github.com/aiqiuqiu/FRPCheatSheeta/blob/master/cheatSheet/RXSwift.png)
 
 
 
